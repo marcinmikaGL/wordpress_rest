@@ -1,0 +1,705 @@
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12,
+.col-xl-12,
+.slajd1_col {
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.col,
+.col-1,
+.col-10,
+.col-11,
+.col-12,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-auto {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.dropdown-menu .menu {
+    
+       display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0; 
+    text-transform:lowercase;
+}
+.navbar, .dropdown-menu {
+    background-color: #082567 !important;
+}
+.dropdown-menu .menu:hover {
+    color: #082567 !important;
+    background-color: #fff;
+}
+
+.logo {
+    height: 8vh;
+}
+
+.navbar-collapse {
+    flex-flow: row-reverse;
+}
+
+.menu {
+    color: #ffff !important;
+}
+
+header .carousel-inner .item {
+    height: 100vh;
+}
+
+header {
+    background-color: #000000 !important;
+}
+
+.zdjecie_carousel {
+    width: 99.2%;
+    height: 88vh;
+    opacity: 0.5;
+}
+
+.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.carusel_text {
+    font-family: inherit;
+    font-weight: 200;
+    line-height: 1.2;
+    color: inherit;
+    margin-bottom: 23%;
+}
+
+.slajd1_col {
+    background-color: black;
+}
+
+.potrawa_strona_glowna {
+    height: 40vh;
+    margin-top: 10%;
+    margin-left: 13%;
+}
+
+.o_nas_h3 {
+    color: #082567;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+h3 {
+    color: #082567;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+.strona_gl_hr,
+hr {
+    width: 20%;
+    margin-left: 1%;
+    margin-bottom: 6%;
+    border-top: 4px solid #082567;
+}
+
+.ikony {
+    height: 15vh;
+}
+
+.zupy {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.zupa {
+    margin-left: 40%;
+    border-top: 4px solid #f7da98;
+}
+
+.page-footer {
+    background: black;
+}
+
+.footer-copyright {
+    color: gray;
+}
+
+a {
+    color: #f8f9fa !important;
+}
+
+.aktualnosci_h2,
+.aktualnosci_p , .aktualnosci_p p {
+    color: white;
+    padding: 5%;
+}
+
+
+.lokale1 {
+    width: 100%;
+    /* height: 66vh;
+    margin-left: -15px; */
+}
+
+.lokal {
+    text-align: center;
+    padding-top: 4%;
+    background-color: #333333ff;
+}
+
+p {
+    margin-top: 3%;
+}
+
+h4 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #212854;
+}
+
+h3 {
+    margin-top: 3%;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    color: #f7da98;
+    font-size: 30px;
+}
+
+h6 {
+    text-align: center;
+    color: #f7da98;
+    font-size: 20px;
+}
+
+.oferta_lun {
+    text-align: center;
+    color: #000000;
+    margin-top: 0px;
+}
+
+.oferta_hr {
+    width: 20%;
+    margin-left: 40%;
+    border-top: 4px solid #f7da98;
+    margin-bottom: 0px;
+}
+
+.port-image {
+    width: 100%;
+}
+
+.galeria {
+    height: 29vh;
+    width: 23vw;
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+
+.galeria_kolumna {
+    margin-left: 13%;
+}
+
+.zespol {
+    height: 82.6vh;
+    margin-left: -9%;
+}
+
+.opis {
+    padding-left: 3%;
+    padding-right: 16%;
+    margin-left: -1%;
+}
+
+.naglowek_zespol {
+    color: #082567;
+    margin-top: 7%;
+    text-align: left;
+    margin-left: 10%;
+}
+
+.opis_zespol {
+    color: #000000;
+    margin-top: 2%;
+    margin-left: 10%;
+    padding-right: 40%;
+    margin-bottom: 17.6%;
+}
+
+.naglowek_kontakt {
+    color: #082567 !important;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.opis_kontakt {
+    margin-top: 7%;
+    text-align: left;
+    margin-left: 33%;
+    margin-bottom: 28.5%;
+    color: #000000;
+}
+
+.mapa {
+    border-style: solid;
+    border-color: #082567 !important;
+    margin-top: 19%;
+    margin-left: -8%;
+}
+
+.naglowek_zupy {
+    color: #082567;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+.secjalne_zamowienie {
+    color: #082567;
+    text-align: center;
+}
+
+.opis_specjalne {
+    text-align: center;
+    color: #000;
+    font-weight: normal;
+}
+
+.obramowanie {
+    border-style: solid;
+    border-radius: 71%;
+    height: 18vh;
+    border-color: #082567;
+    border-width: 9px;
+    margin-top: 5%;
+}
+
+.tekst {
+    margin-top: 2.4%;
+    margin-bottom: 2%;
+    margin-left: -5%;
+    padding-left: 3%;
+}
+
+.zdjecie {
+    z-index: 1;
+}
+
+.opis_zupy {
+    color: #000;
+    text-align: center;
+}
+
+.opis_ikon {
+    color: #000;
+    text-align: center;
+    padding: 2%;
+}
+.opis_ikon p {
+    color: #000;
+    text-align: center;
+    padding: 2%;
+}
+
+.strona_gl_hr {
+    margin-left: 40.5%;
+}
+
+.cytat {
+    font-style: italic;
+    color: #000;
+    text-align: center;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.zdjecie_dania_glowne {
+    height: 47.9%;
+    width: 101%;
+    opacity: 0.4;
+    margin-left: -1%;
+}
+
+.centered {
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+.centered_1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tabela_menu {
+    margin-top: -32%;
+}
+
+.oferta_lunch_h3 {
+    margin-top: 5%;
+}
+
+.oferta_lunch_h4 {
+    margin-bottom: 3%;
+}
+
+.oferta_lunch_p {
+    text-align: center;
+    margin: 2%;
+}
+
+.lang {
+    overflow: auto;
+    position: absolute;
+    right: 23px;
+    bottom: 0;
+}
+.navbar-toggler-icon {
+    color: white !important;
+}
+
+.fa-facebook-square {
+    color: #ffffff;
+    font-size: 39px;
+    position: relative;
+    left: 49%;
+    margin-bottom: 1%;
+}
+
+.fa-instagram {
+    color: #ffffff;
+    font-size: 39px;
+    position: relative;
+    left: 50%;
+    margin-bottom: 1%;
+}
+
+@media (min-width:1024px) and (max-width:1366px) {
+    .zdjecie_carousel {
+        width: 99.2%;
+        height: 54vh;
+        opacity: 0.5;
+    }
+    .potrawa_strona_glowna {
+        height: 35vh;
+        margin-top: 10%;
+        margin-left: 13%;
+    }
+    .lokale1 {
+        width: 100%;
+        /* height: 43vh;
+        margin-left: -15px; */
+    }
+    .galeria_1366px {
+        margin-right: 1%;
+        margin-left: 13%;
+    }
+}
+
+@media (min-width:966px) and (max-width:1024px) {
+    .carusel_text {
+        font-family: inherit;
+        font-weight: 200;
+        line-height: 1.2;
+        color: inherit;
+        margin-bottom: 12%;
+    }
+    .zdjecie_carousel {
+        width: 99.2%;
+        height: 40vh;
+        opacity: 0.5;
+    }
+    .ikony {
+        height: 11vh;
+    }
+    .opis_ikon {
+        color: #000;
+        text-align: center;
+        padding: 4%;
+    }
+    .potrawa_strona_glowna {
+        height: 20vh;
+        margin-top: 16%;
+        margin-left: 13%;
+    }
+    .aktualnosci_row {
+        display: block !important;
+    }
+    .aktualnosci_col {
+        max-width: 100% !important;
+    }
+    .aktualnosci_p ,  .aktualnosci_p p {
+        margin-bottom: 0 !important;
+    }
+    .opis_zespol {
+        margin-bottom: 12.6%;
+    }
+    .galeria {
+        height: 106%;
+        width: 182%;
+        padding: 5% 0%;
+    }
+    .opis_kontakt {
+        margin-top: 7%;
+        text-align: left;
+        margin-left: 22%;
+        margin-bottom: 28.5%;
+        color: #000000;
+    }
+}
+
+@media (min-width:768px) and (max-width:966px) {
+    .zdjecie_carousel {
+        width: 100%;
+        height: 40%;
+        opacity: 0.5;
+    }
+    .lokale1 {
+        width: 100%;
+        /* height: 47vh;
+        margin-left: -15px; */
+    }
+    .centered {
+        font-size: 21px;
+    }
+    .tabela_menu {
+        margin-top: -24%;
+        margin-left: -6%;
+    }
+    .galeria_kolumna {
+        margin-left: 0;
+    }
+    .galeria {
+        height: 100%;
+        width: 100%;
+        padding: 2% 0;
+        margin: 0 23%;
+    }
+    .naglowek_kontakt {
+        color: #f7da98;
+        text-align: center;
+        margin-top: 8%;
+    }
+    .opis_kontakt {
+        margin-top: 3%;
+        text-align: left;
+        margin-left: 33%;
+        margin-bottom: 5.5%;
+        color: #000000;
+    }
+    .mapa {
+        border-style: solid;
+        border-color: #f7da98;
+        margin-top: 0;
+        margin-left: 0;
+    }
+}
+
+@media (min-width:300px) and (max-width:767px) {
+    .zdjecie_carousel {
+        width: 100%;
+        height: 100%;
+        opacity: 0.5;
+    }
+    .carusel_text {
+        font-family: inherit;
+        font-weight: 200;
+        line-height: 1.2;
+        color: inherit;
+        margin-bottom: 10%;
+        font-size: 14px;
+    }
+    .carousel-caption {
+        bottom: 0px;
+    }
+    .cytat {
+        font-size: 14px;
+        padding: 0 15px;
+    }
+    .ikony {
+        width: 25%;
+        height: 32%;
+    }
+    .opis_ikon {
+        font-size: 14px;
+    }
+    .oferta_lunch_h3 {
+        font-size: 18px;
+    }
+    .oferta_lunch_h4 {
+        font-size: 18px;
+    }
+    .centered {
+        position: absolute;
+        top: 41%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .zdjecie_dania_glowne {
+        height: 85.9%;
+        width: 101%;
+        opacity: 0.4;
+        margin-left: -1%;
+    }
+    .tabela_menu {
+        margin-top: -3%;
+        margin-left: -7%;
+    }
+    tbody {
+        font-size: 14px;
+    }
+    .opis_zespol {
+        color: #000000;
+        margin-top: 2%;
+        margin-left: 10%;
+        padding-right: 5%;
+        margin-bottom: 17.6%;
+        text-align: justify;
+    }
+    .galeria_kolumna {
+        margin-left: 0%;
+    }
+    .galeria {
+        height: 97%;
+        width: 97%;
+        margin: 1%;
+    }
+    .naglowek_kontakt {
+        margin-top: 12%;
+    }
+    .opis_kontakt {
+        margin-top: 7%;
+        text-align: center;
+        margin-left: 2%;
+        margin-bottom: 0.5%;
+        color: #000000;
+    }
+    .mapa {
+        border-style: solid;
+        border-color: #f7da98;
+        margin-top: 5%;
+        margin-left: 0;
+    }
+    .lokale1 {
+        width: 100%;
+        /* height: 39vh;
+        margin-left: -15px; */
+    }
+    .aktualnosci_h2
+    {
+        color: white;
+        padding: 5%;
+        font-size: 18px;
+    }
+    .aktualnosci_p ,   .aktualnosci_p p {
+        padding: 2%;
+        font-size: 14px;
+    }
+}
